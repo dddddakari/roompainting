@@ -72,4 +72,3 @@ Enter window/door width for window/door 1 in feet
 10
 For Room 3, the area to be painted is 470.00 and will require 1.34. This will cost the customer 56.40
 Area to be painted is 2250.00 and will require 6.43. This will cost the customer 270.00
-PS C:\Users\icogn\Desktop\coding_\skewl\OOPS>
